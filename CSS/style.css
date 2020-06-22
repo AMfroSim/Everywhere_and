@@ -1,9 +1,9 @@
 h1, h2, h3, h4, a{
- font-family: 'Playfair Display', serif;
+font-family: 'Lobster', cursive;
 }
 p{
-    font-family: 'Lobster', cursive;
-  font-weight: 600;
+font-family: 'Lobster', cursive;
+font-weight: 600;
 }
 .image-align {
   text-align: center;
